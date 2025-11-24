@@ -1,5 +1,10 @@
 # Learning to Code
 
+## [Godot Documentation](https://docs.godotengine.org/en/stable/)
+[Archived Link] (https://web.archive.org/web/20170118080612/https://docs.godotengine.org/en/stable/)
+
+Godot's official documentation page.
+
 ## [Learn Git Branching](https://learngitbranching.js.org/)
 [Archived Link](https://web.archive.org/web/20241009005453/https://learngitbranching.js.org/)
 
